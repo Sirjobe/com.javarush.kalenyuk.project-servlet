@@ -1,0 +1,17 @@
+td {
+    border: 1px solid #2e82c3;
+    border-radius: 4px;
+    background: #cbdfef;
+    padding: 10px;
+    border-collapse: separate;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    text-align: center;
+    empty-cells: show;
+}
+td:hover {
+    background: #a2c3dd;
+    transition-duration: 0.2s;
+}
